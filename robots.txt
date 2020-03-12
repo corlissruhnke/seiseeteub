@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://foofahkeag.thenownow.org/sitemap.xml
